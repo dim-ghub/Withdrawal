@@ -1,4 +1,5 @@
 #!/bin/bash
+set -e
 
 WITHDRAWAL_DIR="$HOME/Withdrawal"
 DESKTOP_ENTRY_DIR="$HOME/.local/share/applications"
